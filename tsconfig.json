@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "watch": true,
+    "noEmitOnError": true
+  },
+  "exclude": [
+    "node_modules/"
+  ]
+}
